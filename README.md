@@ -1,11 +1,12 @@
 # 🚀 Notion React Starter
 
-![App Screenshot](public/notion-react-starter.png)
+<img width="813" alt="image" src="https://github.com/user-attachments/assets/1a1a8db4-4249-42ed-91c4-8ca2afdc051e">
+
 
 ### Getting Started
 
-- 1️⃣ `git clone https://github.com/neurosity/notion-react-starter.git`
-- 2️⃣ `cd notion-react-starter`
+- 1️⃣ `git clone https://github.com/SaShakib/EEGRecord.git`
+- 2️⃣ `cd EEGRecord`
 - 3️⃣ `npm install`
 - 4️⃣ `npm start`
 
