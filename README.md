@@ -1,12 +1,11 @@
-# 🚀 React EEG recorder
+# 🚀 Notion React Starter
 
-<img width="896" alt="image" src="https://github.com/user-attachments/assets/170955d8-5b42-407f-b20e-2aced1245b92">
-
+![App Screenshot](public/notion-react-starter.png)
 
 ### Getting Started
 
-- 1️⃣ `git clone https://github.com/SaShakib/EEGRecord.git`
-- 2️⃣ `cd EEGRecord`
+- 1️⃣ `git clone https://github.com/neurosity/notion-react-starter.git`
+- 2️⃣ `cd notion-react-starter`
 - 3️⃣ `npm install`
 - 4️⃣ `npm start`
 
